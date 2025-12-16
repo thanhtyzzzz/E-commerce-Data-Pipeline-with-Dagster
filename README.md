@@ -20,7 +20,7 @@ Silver Layer (Cleaned & Validated)
 ↓
 Gold Layer (Analytics Ready)
 
-## 🚀 Quick Start
+##  Quick start
 
 ### 1. Clone & Setup
 ```bash
@@ -80,5 +80,3 @@ pytest
 # With coverage
 pytest --cov=dagster_ecommerce --cov-report=html
 ```
-
-## 📁 Project Structure
