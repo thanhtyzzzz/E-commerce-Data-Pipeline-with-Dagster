@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Dagster
+dagster_home/
+.dagster/
+tmpj*/
+*.log
+
+# Data files
+data/raw/**/*.csv
+data/raw/**/*.parquet
+data/staging/
+data/processed/
+*.duckdb
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Environment
+.env
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
