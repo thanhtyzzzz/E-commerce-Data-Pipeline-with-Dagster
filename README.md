@@ -24,7 +24,7 @@ Gold Layer (Analytics Ready)
 
 ### 1. Clone & Setup
 ```bash
-git clone <your-repo>
+git clone https://github.com/thanhtyzzzz/E-commerce-Data-Pipeline-with-Dagster
 cd dagster-ecommerce-pipeline
 
 python -m venv venv
